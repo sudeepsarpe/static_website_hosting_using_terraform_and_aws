@@ -1,0 +1,1 @@
+# static_website_hosting_using_terraform_and_aws
